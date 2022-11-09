@@ -1,9 +1,5 @@
 # Construction Contractor Website Template
 
-[https://construction-website-template-bashamtg.vercel.app](https://construction-website-template-bashamtg.vercel.app)
-
-## Author: Thomas Basham
-
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js CI](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js CI](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
